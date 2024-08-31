@@ -29,7 +29,7 @@ def fetch_and_display():
 
 # Setting up the Tkinter UI
 root = tk.Tk()
-root.title("Web Page Headings Scraper")
+root.title("Top News Scraper")
 
 # URL entry field
 url_label = ttk.Label(root, text="Website URL:")
