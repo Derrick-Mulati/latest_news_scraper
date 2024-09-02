@@ -1,1 +1,1 @@
-# latest_news_scraper
+# Latest news scraper
